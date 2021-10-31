@@ -1,0 +1,2 @@
+export const GET_ARTICLE = "ARTICLE/GET_ARTICLE";
+export const SET_ARTICLE = "ARTICLE/SET_ARTICLE";
